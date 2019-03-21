@@ -1,7 +1,7 @@
-package com.wipro.bank.service;
+package com.test.bank.service;
 
-import com.wipro.bank.bean.Account;
-import com.wipro.bank.dao.AccountDao;
+import com.test.bank.bean.Account;
+import com.test.bank.dao.AccountDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

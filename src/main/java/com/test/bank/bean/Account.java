@@ -1,4 +1,4 @@
-package com.wipro.bank.bean;
+package com.test.bank.bean;
 
 import org.springframework.stereotype.Component;
 

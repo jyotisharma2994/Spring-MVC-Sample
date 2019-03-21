@@ -27,8 +27,8 @@
                   value="com.wipro.bank"/>
         <property name="annotatedClasses">
             <list>
-                <value>com.wipro.bank.bean.Account</value>
-                <value>com.wipro.bank.bean.Customer</value>
+                <value>com.test.bank.bean.Account</value>
+                <value>com.test.bank.bean.Customer</value>
             </list>
         </property>
         <property name="hibernateProperties">

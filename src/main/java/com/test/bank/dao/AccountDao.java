@@ -1,7 +1,7 @@
-package com.wipro.bank.dao;
+package com.test.bank.dao;
 
-import com.wipro.bank.bean.Account;
-import com.wipro.bank.bean.Customer;
+import com.test.bank.bean.Account;
+import com.test.bank.bean.Customer;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

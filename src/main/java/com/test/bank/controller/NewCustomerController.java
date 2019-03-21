@@ -1,8 +1,8 @@
-package com.wipro.bank.controller;
+package com.test.bank.controller;
 
-import com.wipro.bank.bean.Account;
-import com.wipro.bank.bean.Customer;
-import com.wipro.bank.service.AccountService;
+import com.test.bank.bean.Account;
+import com.test.bank.service.AccountService;
+import com.test.bank.bean.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
